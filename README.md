@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Galen Ferrara!
 
-I'm a Computer Science graduate with a background in mathematics. I'm a numbers guy :)
+I'm a Computer Science graduate with a background in mathematics.
 
 ## 🎯 Interests
 - **Quantitative Development**: I have an active interest in quantitative finance, I'm exploring how analytical models and algorithmic logic can shape financial tools.
