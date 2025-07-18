@@ -8,7 +8,7 @@ I'm a Computer Science graduate with a background in mathematics.
 
 ## 🧠 Background
 
-I started university at 13 with a Mathematics degree, developing problem solving skills trhough advances topics like statistics, networks, and logic. My background blends technical precision with creative design. I approach all my prblems in a structured and empathetic manner, considering the system, and the end user, cohesively.
+I started university at 13 with a Mathematics degree, developing problem solving skills trhough advances topics like statistics, networks, and logic. My background blends technical precision with creative design. I approach all my problems in a structured and empathetic manner, considering the system, and the end user, cohesively.
 
 ## 🌐 Connect With Me
 📫 [ferraragalen@gmail.com](mailto:ferraragalen@gmail.com)  
